@@ -1,3 +1,4 @@
-var a = 4;
-var b = 2;
-console.log(a-b);
+var data = {};
+var a = 2;
+var b = 3
+console.log(a+b);
