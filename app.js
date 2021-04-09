@@ -1,4 +1,4 @@
-var data = {};
-var a = 2;
-var b = 3
-console.log(a+b);
+import { add } from './function';
+var num1 = 4;
+var num2 = 2;
+add(num1, num2)
